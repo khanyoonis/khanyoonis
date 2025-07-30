@@ -29,7 +29,7 @@ Currently working on Angular and WordPress projects and constantly learning new 
 
 ## 📫 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoonis-khan-61b098378/)
 [![Upwork](https://img.shields.io/badge/Upwork-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01ca4b76c6bae011b8)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:yoonis.glb18@gmail.com)
 
