@@ -11,7 +11,7 @@ Currently working on Angular and WordPress projects and constantly learning new 
 
 ## 🛠️ Skills & Technologies:
 - 🔹 HTML, CSS, JavaScript
-- 🔹 Angular (with Standalone Components)
+- 🔹 Angular
 - 🔹 WordPress + Elementor
 - 🔹 SCSS, Responsive Design
 - 🔹 Git & GitHub, Figma
