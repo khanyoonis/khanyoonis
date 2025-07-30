@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Yoonis Khan  
+### 💻 Web Developer | 🌐 WordPress | ⚡ Angular | 🎨 Figma
 
-<!--
-**khanyoonis/khanyoonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me:
+I'm a passionate and self-motivated front-end web developer from India, specializing in modern UI design and dynamic websites.  
+Currently working on Angular and WordPress projects and constantly learning new web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies:
+- 🔹 HTML, CSS, JavaScript
+- 🔹 Angular (with Standalone Components)
+- 🔹 WordPress + Elementor
+- 🔹 SCSS, Responsive Design
+- 🔹 Git & GitHub, Figma
+
+---
+
+## 📂 Featured Projects:
+
+| Project | Description | Live Link | Code |
+|--------|-------------|-----------|------|
+| **Electronics Affiliate Site** | A WordPress-based electronics site using Elementor. | _Coming Soon_ | [GitHub Repo](https://github.com/khanyoonis/electronics-affiliate-site) |
+| **Exam UI in Angular** | A multiple-choice exam system built with Angular standalone components. | _Coming Soon_ | [GitHub Repo](https://github.com/khanyoonis/Yoonis_Exam_UI) |
+
+---
+
+## 📫 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Upwork](https://img.shields.io/badge/Upwork-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01ca4b76c6bae011b8)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:yoonis.glb18@gmail.com)
+
+---
+
+_⭐ Always ready to collaborate and build creative, user-focused solutions._
+
