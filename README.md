@@ -1,32 +1,23 @@
 Hi, I'm Yoonis Khan  
-### 💻 Web Developer | 🌐 WordPress | ⚡ Angular | 🎨 Figma
+💻 Web Developer | ⚡ Angular | 🎨 Figma | 🌐 WordPress 
 
----
-
-## 🚀 About Me:
+🚀 About Me:
 I'm a passionate and self-motivated front-end web developer from India, specializing in modern UI design and dynamic websites.  
 Currently working on Angular and WordPress projects and constantly learning new web technologies.
 
----
-
-## 🛠️ Skills & Technologies:
+🛠️ Skills & Technologies:
 - 🔹 HTML, CSS, JavaScript
 - 🔹 Angular
 - 🔹 WordPress + Elementor
 - 🔹 SCSS, Responsive Design
 - 🔹 Git & GitHub, Figma
 
----
-
-## 📂 Featured Projects:
+ 📂 Featured Projects:
 
 | Project | Description | Live Link | Code |
 |--------|-------------|-----------|------|
 | **Electronics Affiliate Site** | A WordPress-based electronics site using Elementor. | _Coming Soon_ | [GitHub Repo](https://github.com/khanyoonis/electronics-affiliate-site) |
 | **Exam UI in Angular** | A multiple-choice exam system built with Angular standalone components. | _Coming Soon_ | [GitHub Repo](https://github.com/khanyoonis/Yoonis_Exam_UI) |
-
----
-
 ## 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoonis-khan-61b098378/)
